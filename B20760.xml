@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The court of honour, or, The vertuous Protestant's looking-glass being the true and lively characters (or descriptions of the chief and most noble worthies that maintain any pious princes crown, or make happy a kingdom, with their several qualifications, dignities and tytles : wherein good kings may view their own images, virtuous noblemen see their own pictures, subjects learn loyal obedience ... / vvritten by a royalist ...</title>
+            <author>Royalist.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20760</idno><idno type="EEBO-CITATION">18513853</idno>
+  <idno type="VID">205235</idno>
+  <idno type="EEBO-PROQUEST">2240861421</idno>
+  
+            <idno type="STC">Wing C6589A</idno>
+            <idno type="OCLC">18513853</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1649:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The court of honour, or, The vertuous Protestant's looking-glass being the true and lively characters (or descriptions of the chief and most noble worthies that maintain any pious princes crown, or make happy a kingdom, with their several qualifications, dignities and tytles : wherein good kings may view their own images, virtuous noblemen see their own pictures, subjects learn loyal obedience ... / vvritten by a royalist ...</title>
+                  <author>Royalist.</author>
+                  <author>Breton, Nicholas, 1545?-1626? Good and the badde.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Purslow, and Tho. Haly,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p. (four woodcuts).</note>
+                  <note>"Taken largely from Breton's The good and the badde (1616)" -- NUC pre-1956 imprints.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205235:1"/>
+            <pb facs="tcp:205235:1"/>
+            <pb facs="tcp:205235:2"/>
+            <pb facs="tcp:205235:2"/>
+            <p>THE Court Of Honour <hi>Or,</hi> The Vertuous Protestant's Looking-Glass: BEING The True and Lively Characters (or Descriptions of the Chief and most Noble Worthies that main<g ref="char:EOLhyphen"/>tain any Pious Princes Crown, or make Happy a Kingdom: With their several Qualifications, Dig<g ref="char:EOLhyphen"/>nities and Tytles. Wherein Good Kings may View their own Images, virtuous Noble<g ref="char:EOLhyphen"/>men see their own Pictures, Sub<g ref="char:EOLhyphen"/>jects learn Loyal Obedience, and all sorts of Men, behold (as in a Mirrour) their own Excellencies and Graces, Vices or Defects: To Persevere in the One, and forsake the other.</p>
+            <figure>
+               <figDesc>depiction of a king</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of a prince</figDesc>
+            </figure>
+            <list>
+               <item>I. A Worthy KING.</item>
+               <item>II. A Worthy PRINCE.</item>
+               <item>III. A Worthy COƲN<g ref="char:EOLhyphen"/>SELLOR.</item>
+               <item>IV. A Worthy Nobleman.</item>
+               <item>V. A Worthy BISHOP or MINISTER.</item>
+               <item>VI. A Worthy JƲDGE.</item>
+               <item>VII. A Worthy Knight and Commander in the Warrs.</item>
+               <item>VIII. A Worthy Gentleman.</item>
+               <item>IX. A Worthy LAWYER.</item>
+               <item>X. A Worthy SOƲLDIER.</item>
+               <item>XI. A Worthy Physitian.</item>
+            </list>
+            <p>The like not Extant.</p>
+            <figure>
+               <figDesc>depiction of a worthy (counsellor or nobleman)</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of a worthy (knight or soldier)</figDesc>
+            </figure>
+            <p>VVritten by a Royalist, a Person of Quality: One that fears God, and Honoureth the King.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="allowance">
+                        <p>With
+<q>
+                              <l>God Save the King, Preserve his Crown,</l>
+                              <l>Defend the Church, Tread <hi>Rebels Down.</hi>
+                              </l>
+                           </q> Allowance.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed by <hi>A. Purslow,</hi> and <hi>Tho. Haly.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="character_book">
+            <pb n="2" facs="tcp:205235:3"/>
+            <div type="character">
+               <head>A Worthy KING.</head>
+               <p>HE is the figure of God, in the nature of government, and the chief of man, the Churches champion, and natures honour: heavens quintessence, earths magnificence, a director of the Law, and the strength of the same, the sword of Justice, and the Scepter of mercy, the glass of grace, and the eye of honour, he is the search<g ref="char:EOLhyphen"/>er out of treason, and the terrour of traitors, but he is the life of loy<g ref="char:EOLhyphen"/>alty, his command is general, his frown is death, and his favour is life, his charge is his subjects, his care is their safety, his pleasure their peace, and his joy their love, he is not to be parallel'd, because that he is without equality, and the prerogative of his Crown may not be contradicted, he is the Lords anointed, and therefore must not be touched, he is the head of the publick body, and therefore must be preserved, he is the scour of sin, and the blessing of grace, Gods Vice-Roy over his people, and under him sumpream head and Go<g ref="char:EOLhyphen"/>vernor, his safety must be his counsellours care, and his health his subjects prayer, his pleasure his peers comfort, and his content his Kingdoms gladness, his presence must be reverenced, his person at<g ref="char:EOLhyphen"/>tended, his Court must be adorned, and his state maintained, his bo<g ref="char:EOLhyphen"/>some must not be searcht into, his will not disobeyed, his wants must not be unsupplyed, nor his place unregarded, he is more than a man, although not a God, and next unto God to be honoured above all men.</p>
+            </div>
+            <div type="character">
+               <head>(A Worthy Prince) such is our KING, whom God long preserve.</head>
+               <p>HE is the hope of a Kingdom, and the richest Iewel in the Kings Crown, the fairest Flower in the Nations Garden, the Ioy of nature in the hope of honour, he is the love of wisdom, and the life of worthiness, in the secret carriage of his hearts intentions, until his designs come to action, and so to perfection, he seems but as a dumb shew to the worlds imagination, in his wisdom he startles the stupid of their expectation by his valour and by his vertue be subjects the hearts of ambition, and wins the love of the most noble, and by his own bounty he binds the most sufficient, he is the Christial-Glass where nature may behold her comfort, and the Book of Reason,
+<pb n="3" facs="tcp:205235:3"/> where vertue may read her honour, he is the Morning-Starr that hath light from the Sun, and the blessed fruit of the Tree of Earths Paradice, he is the study of the wise in the state of honour, and in the subject of Learning, he is the History of admiration, he is in the noat of Wisdom, the aim of honour, and in the honour of Vertue, the hope of a Kingdom.</p>
+            </div>
+            <div type="character">
+               <head>A Worthy Privy-Coursellour.</head>
+               <p>He is the Piller of a Realm, in whose wisdom and care, next un<g ref="char:EOLhyphen"/>der God &amp; the King, stands the safety of a Kingdom, he is a watch-Tower to give warning of the enemy, to discover treason, &amp; appre<g ref="char:EOLhyphen"/>hend the traitors, and bring them to condign punishment, he is the hand of providence, for the preservation of the state and Kingdom, he is an Oracle in the Kings Ear, and a sword in the Kings hand, an even weight in the ballance of Justice, and a light of grace in the love of truth, he is an eye of care in the course of Law, and a heart of love in his service to his Soveraign, a mind of honor in the order of his service, and a brain of invention for the good of the Comon<g ref="char:EOLhyphen"/>wealth, his place is powerful, his service is faithful, and his honour ought to be proportionable to his great employment, he is a fixed Planet amongst the Stars of the Firmament, which through the clouds in the ayr shews the greatness of his light, and the goodness of his Influence.</p>
+            </div>
+            <div type="character">
+               <head>A Worthy Noble Man.</head>
+               <p>He is the mark of honour, the eye of wisdom, in the observation of desert sees the fruit of grace, he is the Orient pearl that reason polisheth, for the beauty of nature, and the Diamond spark where Divine graces gives vertue honour, he is the Noat Book of Mortal Discipline, where the conscience of care may find the true Cour<g ref="char:EOLhyphen"/>tier, he is the nurse of hospitality, and the relief of necessity, the love of charity, and the life of bounty, he is learnings grace, and valours fame, wisdoms fruit, and k ndness love, he is the true Fawlkon that feeds on no Carrion, and the generous Steed that will be no Hack<g ref="char:EOLhyphen"/>ney, the true Dolphin that fears not the Whale, and the true Man of God that fears not the Devil, he is the Darling of nature, in rea<g ref="char:EOLhyphen"/>sons
+<pb n="4" facs="tcp:205235:4"/> Philosophy, the Load-stone of light, in loves Astronomy, the ravishing sweet in the Musick of honour, and the Golden Number in Graces Arithmetick.</p>
+            </div>
+            <div type="character">
+               <head>A Worthy Bishop or Minister.</head>
+               <p>He is an Ambassador from God unto men, in the midst of War to make a treaty of peace, who with a pronounciation of a general pardon upon a general and a particular confession of sin, the fruit of Repentance and faith in the merits of Christ, gives a full assurance of comfort, he brings tydings from Heaven of happiness to the worse upon earth, he is the silver Trumpet in the musick of Love, where faith hath a life that never faileth the beloved, he is the di<g ref="char:EOLhyphen"/>rector of Life in the Laws of God, and the true Chyrurgeon of the Soul in lancing the sores of sin, the terrour of the reprobate in pro<g ref="char:EOLhyphen"/>nouncing of their damnation, and the joy of the faithful in the assu<g ref="char:EOLhyphen"/>rance of their salvation, he is in the nature of grace worthy of honor, and in the measure of life worthy of love, he is a continual agent betwixt God and man, and the preaching of his Word, and praying for his people, is as well his delight as Imployment.</p>
+            </div>
+            <div type="character">
+               <head>A Worthy JUDGE.</head>
+               <p>He is a doom, whose breath is mortal upon the breach of the Law, where treason must receive its reward, and malefactors that act against the Law he cuteth off from the Common wealth, he is the sword of Iustice in the hand of the King, and the eye of wisdom in the circuit of a Kingdom, his study is a most true square for the keeping of a due proportion betwixt command and obedience, that the King may in the more safety keep the Crown on his head, and the Subject his head on his shoulders, he is feared of none but of the foolish, and cursed of none but the wicked, but of the Wise he is honoured, and of the gracious he is beloved, he is a Surveyer of rights, and a revenger of wrongs, and in the Iudgement of truth, the honour of Iustice, his words are Law, his power grace, his labour peace, and his desert honour.</p>
+            </div>
+            <div type="character">
+               <head>A worthy Knight and Commander in the Wars.</head>
+               <p>He is a spirit of proof, in the advancement of vertue, by the de<g ref="char:EOLhyphen"/>sert
+<pb n="5" facs="tcp:205235:4"/> of honour, in the eye of Majesty, in the field he gives courage to his souldiers, in the Court he gives grace to his followers, in the City reputation to his person, and in the Countrey honour to his House and Family, his sword and his horse make his way to his house, and his armour of proof is his undaunted spirit, the Musick of his delight is the sound of the Trumpet, and the ratling of the warlike Drum, and the paradice of his eye is his enemies army de<g ref="char:EOLhyphen"/>feated, the oppresseds relief makes his conquest honourable, &amp; par<g ref="char:EOLhyphen"/>doning the submissive, makes him as famous for mercy, as courage, he is in Nature mild, and in Spirit stout, in Reason judicious, and in all honourable; He is a Yeomans commander, and a gentlemans Superior, A Noble mans companion, and the King and Kingdoms worthy Favourite.</p>
+            </div>
+            <div type="character">
+               <head>A Worthy GENTLEMAN.</head>
+               <p>He is a true Branch of the Tree of honour, whose fruits are the actions of Vertue, as pleasing to the eye of Judgement, as tastful to the spirit of Understanding; whatsoever he doth it is not forced, except it be evil, which either through ignorance, unwillingly, or through compulsion unwillingly, he falls upon: He is in nature kind, and in demeanour courteous, in alleagence strict, and in Reli<g ref="char:EOLhyphen"/>gion zealous; in service faithful, and in rewarding bountiful: He is Woven by the spirit of Wisdom, to adorn the court of Honour: his Apparel is for the most part, more comely then costly, and his Dyet more wholsom then excessive; his exercise more healthful then painful, and his Study more for knowledge then for pride: his Love not wanton nor common, his gifts neither nigardly nor yet prodigal, and his carriage is neither Apish nor Sullen; he is an ap<g ref="char:EOLhyphen"/>prover of his pedigree, by the Nobleness of his passage, and in the course of his life, an example to his posterity.</p>
+            </div>
+            <div type="character">
+               <head>A Worthy LAWYER.</head>
+               <p>He is the Student of knowledge, how to bring controversies to a conclusion of peace, and out of respect unto Understanding, he devides time into Uses, and cases into Instructions, he lays open obscurities and is praised for his Speech of truth; he pleads much
+<pb n="6" facs="tcp:205235:5"/> in <hi>Forma Pauperis,</hi> for small Fees, he is a means for the preservation of Titles, and the holding of possessions, and a great instrument of peace, in the Iudgement of Impartiality, he is the Clyants hope in his causes pleading, and his hearts comfort in a most happy Issue, he is a finder out of tricks in the craft of evil consciences, and the joy of the distressed in the relief of Justice, he is a maker of peace a<g ref="char:EOLhyphen"/>mongst the Spirits of the contentious, and a contriver of quietness in the Execution of the Law.</p>
+            </div>
+            <div type="character">
+               <head>A Worthy SOULDIER.</head>
+               <p>HE is the Child of Valour, who was born for the service of a pure and just necessity, and for to bear the Ensign of honour: In the actions of worth, he is the dyer of the earth with Blood, and the ruine of the erections of Pride, the refeller of Rebellion, and the chastizer of the Rebells: He is the watch of Wit, in the advan<g ref="char:EOLhyphen"/>tage of time, and the Executioner of wrath upon the wilful offen<g ref="char:EOLhyphen"/>der: He disputes questions with the point of his Sword, and pre<g ref="char:EOLhyphen"/>fers death to Indignities: He is a Lyon to Ambition, and a Lamb to Submission; he hath hope fast by the hand, and treads upon the head of fear; he is the Kings Champion and the Kingdoms guard, Peaces preserver and Rebellion terror; he makes the horse trample at the sound of the Trumpet, and leads on to the Battel, as if that he was going to a breakfast, he knows not the nature of Cowardise, for his rest is set upon resolution, his strongest Fortification is his mind, which beats off the assaults of idle humours, and his life is the passage of danger, where an undaunted spirit stoops to no For<g ref="char:EOLhyphen"/>tune; with his Armies he wins his Arms, and by his desert in the field, his honour in the Court, in the truest Manhood, he is the tru<g ref="char:EOLhyphen"/>est man, and in the creation of honour the most worthy Creature.</p>
+            </div>
+            <div type="character">
+               <head>A Worthy PHYSITIAN.</head>
+               <p>HE is the Enemy of Sickness, in the purging of nature from cor<g ref="char:EOLhyphen"/>ruption, his action is most in the feeling of Pulses, and his dis<g ref="char:EOLhyphen"/>course is chiefly of the nature of Diseases; he is a diligent seacher out of simples, and accordingly makes his compositions; he per<g ref="char:EOLhyphen"/>swades abstenence and patience for the benefit of health, while
+<pb n="7" facs="tcp:205235:5"/> purging and bleeding are the chief courses of his Counsel.</p>
+               <p>The Apothecary and the Chyrurgion are his two attendants, with whom confering upon time, grows then temperate in his cures, sur<g ref="char:EOLhyphen"/>feits and wantonness are great agents for his imployment, when by the secret of his Skill, out of others weakness he gathers his own strength; he is a most necessary member for an unnecessary malady, for to find out the Disease and cure the diseased.</p>
+               <p>By what hath been said, it is most undoubtedly the best and most surest government that is under God governed, by one single person, that is to say, one King, which ruleth only for the good of his peo<g ref="char:EOLhyphen"/>ple, and that kind of government hath been best approved of in all ages, hath longest continued, and is most antient, for who can deny but that all things both in heaven &amp; earth are governed by one God, by one perpetual order, and by one Providence, one Sun ruleth over the day and one Moon over the night.</p>
+               <p>Let us well observe the little Bee, which of of all other creatures is to be admired, &amp; seemeth to be a perpetual figure of just govern<g ref="char:EOLhyphen"/>ment, which having amongst them one principal Bee for their Go<g ref="char:EOLhyphen"/>vernour, which excelleth all other in greatness, yet hath he no sting, but in him is more knowledge then in all the rest, for if the day fol<g ref="char:EOLhyphen"/>lowing shall be fair and dry, in the morning early he calleth them, making a noise as it were the sound of a horn or Trumpet, then do all the residue prepare them to labour, gathering nothing but what shall be sweet and profitable.</p>
+               <p>The Captain himself laboureth not, but all the other for him, he only seeth that no Droan nor unprofitable Bee enter into the Hive and consume the honey gathered by the other, and if so, presently expelleth them from their common-wealth.</p>
+               <p>The Philosopher saith, that the universal School of all the world, is the person and Court of a Prince, and that the prince is a strong wall for the defence of the truth, and that the Counsellors and hous<g ref="char:EOLhyphen"/>hold-servants of the prince being well tryed, and also the head Offi<g ref="char:EOLhyphen"/>cers and Judges, and all other that have Authority, rightly chosen and instructed by the just example of the princes Court, how quick<g ref="char:EOLhyphen"/>ly
+<pb n="8" facs="tcp:205235:6"/> then will the whole Common-wealth be brought into good or<g ref="char:EOLhyphen"/>der, all men delighting in the vertue, and praising the beauty and the commodity thereof in their Superiors; also rejoycing at the affabillity and gentleness of so pious, valours, and vertuous, noble Prince, dreading his severity, bringing vertue into custom, that such vices as before seemed but little, then become loathsom, filthy, and detestable.</p>
+               <p>
+                  <hi>Plato</hi> saith, that except Wise men be made Governours, man-kind shall never have quiet rest; nor Vertue be able to defend her self against her Enemies; and <hi>Alex Severus</hi> saith, that those that are put into a Authorite by the King, ought to be such as were never infamed with any notable vice, and that therewith they be sufficient<g ref="char:EOLhyphen"/>ly furnished with Wisdom and Gravity, void of all private affecti<g ref="char:EOLhyphen"/>ons, as fear, Averice, and flattery; who like Chyrurgions, shall neither for honour nor affection, forbear with corrisive and sharp Medicines to draw out the festered and stinking Coars of old Mar<g ref="char:EOLhyphen"/>motes and invetrate Sores, ingendred by the long custom of vice.</p>
+               <p>And <hi>Plutarch</hi> saith, That it behoveth a prince to take good heed to his Counsellors, that he may know whom to trust, saying, Hap<g ref="char:EOLhyphen"/>py is that prince, and glorious is that Common-wealth that hath Young men to Travel, and Antient persons for to give Counsel: Happy is that Kingdom where those that are in Authority, temper it with wisdom and purity of life and conversation; The King that is merciful, his Estate shall prosper, and his wisdom shall greatly help him at his need: his Subjects shall rejoyce in him, his Raign shall prosper, and his estate shall continue long in Renown and glo<g ref="char:EOLhyphen"/>ry.</p>
+               <p>Next under <hi>God,</hi> is the King; who is so gr at a Father as he? who is Father of a whole countrey, that is to say, of them that be Fathers, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205235:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
